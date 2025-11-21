@@ -1,9 +1,0 @@
-{
-  "gru_num_layers": 1,
-  "gru_units1": 256,
-  "gru_layernorm": false,
-  "gru_dropout1": 0.2,
-  "gru_lr": 0.000506567839560058,
-  "gru_units2": 64,
-  "gru_dropout2": 0.0
-}
